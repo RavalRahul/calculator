@@ -5,6 +5,7 @@
     background-color: rgb(29, 29, 31);
 }
 body{
+    margin-top:0px;
     display: flex;
     align-items: center;    
     justify-content: space-around;
